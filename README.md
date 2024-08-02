@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Java, Python**
+ I’m currently learning **Java, Python**
 
 
  </div>
