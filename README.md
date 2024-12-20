@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 👩‍💻 I’m currently learning **JavaScript, React, Go**
+ 👩‍💻 I’m currently learning **JavaScript, Go**
 
 
  </div>
