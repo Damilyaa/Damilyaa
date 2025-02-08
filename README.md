@@ -1,9 +1,9 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Damilya!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Damilya!;" />
 </h1>
 
-<h3 align="center">A passionate Astana IT University student</h3>
+<h3 align="center">Software Engineering | Astana IT University' 26</h3>
 
 <br/>
 
