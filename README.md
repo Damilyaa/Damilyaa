@@ -1,7 +1,7 @@
 <h1 align="center">Amangeldykyzy Damilya</h1>
 <h3 align="center">Software Engineering | Astana IT University' 26</h3>
 
-<br/>
+---
 
 <div align="center">
  
@@ -24,6 +24,8 @@
 
 
  </div>
+
+ ---
  
 <div align="center"> 
     <h3>Contacts:</h3>
