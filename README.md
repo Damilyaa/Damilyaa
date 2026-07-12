@@ -1,5 +1,5 @@
 <h1 align="center">Amangeldykyzy Damilya</h1>
-<h3 align="center">Software Engineering | Astana IT University' 26</h3>
+<h3 align="center">ML Engineer | Software Engineering | Astana IT University' 26</h3>
 
 
 <div align="center">
