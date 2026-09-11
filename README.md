@@ -2,20 +2,10 @@
 <h3 align="center">ML Engineer | Astana IT University' 26</h3>
 
 
-<div align="center">
- 
-<p align="center">
-  
- 
-</p>
-
-
- </div>
 
  ---
  
-<div align="center"> 
-    <h3>Contacts:</h3>
+<div align="center">
   <a href="mailto:damilyaamangeldykyzy@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
