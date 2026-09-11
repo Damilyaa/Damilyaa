@@ -1,13 +1,10 @@
 <h1 align="center">Amangeldykyzy Damilya</h1>
-<h3 align="center">ML Engineer | Software Engineering | Astana IT University' 26</h3>
+<h3 align="center">ML Engineer | Astana IT University' 26</h3>
 
 
 <div align="center">
  
 <p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/:packageName">
   
  
 </p>
@@ -25,6 +22,8 @@
   <a href="https://www.linkedin.com/in/damilya-amangeldykyzy/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://huggingface.co/Damilya" target="_blank">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" target="_blank" />
+  </a>
 </div>
 <br/>
-
